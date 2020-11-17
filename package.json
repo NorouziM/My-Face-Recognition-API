@@ -16,8 +16,7 @@
     "express": "^4.17.1",
     "knex": "^0.21.12",
     "pg": "^8.5.0",
-    "pg-promise": "^10.7.3",
-    "nodemon": "^2.0.6"
+    "pg-promise": "^10.7.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
