@@ -1,0 +1,14 @@
+$color: blue;
+body {
+  background: $color;
+  nav {
+    color: #80ff00;
+  }
+}
+@mixin transform($s) {
+  background-color: $s;
+}
+
+ul {
+  @include transform(blue);
+}
